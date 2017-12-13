@@ -1,10 +1,11 @@
 # Demos-RedTeam
                
 
-| RedTeam |Researcher| Powershell |  Empire  |   CS3  |
+| RedTeam |Researcher| Powershell |  Empire  |  .NET  |
 |:---|-------:|----------:|----------:|-------:|  
 |**===================================================>**|
 
-* [index.html](Vuale) - Overall functionality
-* [responsive.html](Vuale) - Making circles responsive
-* [viewport.html](Vuale) - Animate the circles when in viewport
+* [Researcher](Vuale) - Researcher RedTeam 
+* [Powershell](Vuale) - Powershell Products
+* [Empire](Vuale) - Empire-Framework Products
+* [.NET](Vuale) - .NET Framework Products With Researcher
