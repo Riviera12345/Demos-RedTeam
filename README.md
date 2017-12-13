@@ -1,7 +1,10 @@
 # Demos-RedTeam
                
 
-| RedTeam |Researcher| Exploit |  Empire  |   CS3  |   |   CS3  | 
+| RedTeam |Researcher| Powershell |  Empire  |   CS3  |
 |:---|-------:|----------:|----------:|-------:|  
-|**Here**||**Here**| |*Here*||**Here**| |**Here**| |**Here**|
+|**===================================================>**|
 
+* [index.html](Vuale) - Overall functionality
+* [responsive.html](Vuale) - Making circles responsive
+* [viewport.html](Vuale) - Animate the circles when in viewport
