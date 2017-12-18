@@ -33,7 +33,8 @@ Domain ==> D-Active Directory ==>
 
 ![screenshot from 2017-12-16 14-01-55](https://user-images.githubusercontent.com/25440152/34072233-789ee270-e251-11e7-858a-15917d61b16d.png)
 ```
-====================================================================```
+====================================================================>
+```
 
 Objects ==> in Active Directory ===> 
 ```
@@ -113,7 +114,7 @@ LDAPv3
   2 DSP (Directory System Protocol)
   3 DISP (Directory Information Shadowing Protocol)
   4 DOP (Directory Operational Bindings Management Protocol)
-```
+  ```
 
 
 Objects ==> in Active Directory ===> 
