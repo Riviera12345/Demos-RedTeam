@@ -59,6 +59,7 @@ Domain > Tree ==> Forests ===>
 ```
 
 Lightweight Directory Access Protocol LDAP ==>
+
 ```
 ========================================>
 اما احد اكبر مشروعات اكتيف ديركتوري او احد الخدامات الاساسية التي
@@ -112,11 +113,11 @@ LDAPv3
   2 DSP (Directory System Protocol)
   3 DISP (Directory Information Shadowing Protocol)
   4 DOP (Directory Operational Bindings Management Protocol)
-
-
 ```
 
+
 Objects ==> in Active Directory ===> 
+
 ```
 هناك نوعان لوصف الكائن على اكتيف ديركتوري هما
 الكائن العادي والتاني الموردي لي اكتيف ديركتوري 
