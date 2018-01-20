@@ -14,5 +14,21 @@ Lateral Movement
 جعلة جاهز حتا يفتح هدأ البرنامج التي اسمة هاردس وبمجرد ان يفتح يتم تشغيل النص التي كتبتة 
 وهدأ تسمى حركة جانبية للنضام وليس باستغلال او تجاوز الفرق بينهم ان الاستغلال
 لة اساليب اخره تفرق عن هدأ العمليات للحركة الجانبية
+```
 
+
+Lateral Movement 2
+
+```
+Are the techniques that specialize in access to resources, and applications and the implementation 
+of code on applications, and resources And Getting On information, And Getting Simulation
+of system without using tools, remotely, 
+```
+
+APT
+
+```
+هيا تقنيات عالية المستوى بنسبة للتقييم هيا كدالكٍ ليس لغة او بشي معين بل هيا تعني اسلوب المهاجم
+التي يحدث على الانطمة التشغيل من عمليات مهاجمة وتجاوز واستغلال وتخريب وتهديد للمستخدم واكثر الاشياء الشاعة فيها
+هيا عمليات التهديد التي يستخدمها المهاجم للنضام او شي معين وهدهأ متعرف علية التقنية 
 ```
